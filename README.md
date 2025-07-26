@@ -1,5 +1,8 @@
 # 🔐 File Hasher (R Version)
 
+|<img width="1280" height="640" alt="r" src="https://github.com/user-attachments/assets/86ec7112-7547-42f5-822f-9a4ead0cdea0" />|
+|---|
+
 This is a pure SHA-256 hashing tool written in **R**, capable of processing:
 
 - ✅ Single files
